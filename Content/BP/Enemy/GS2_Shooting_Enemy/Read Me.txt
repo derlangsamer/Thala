@@ -1,0 +1,17 @@
+Content\BP\PC_Pawn\Enemy\Turret
+Content\BP\PC_Pawn\Harpoon
+
+Added Content: Content\BP\PC_Pawn\Enemy\Turret
+
+BP_Enemy_Charger (I don't think it works)
+BP_Enemy_Shooter (This is the shooting enemy)
+
+"BP_Enemy_Turret" won't delete despite numerous attempts to delete it.
+
+
+Added Content: Content\BP\PC_Pawn\Harpoon
+
+BP_TurretProjectile
+SM_ProjectileCollider
+
+"SM_HarpoonCollider1" won't delete despite numerous attempts to delete it.
